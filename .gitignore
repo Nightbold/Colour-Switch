@@ -1,0 +1,17 @@
+# Bu dosya, Unity'nin geçici ve gereksiz dosyalarını (Library, Temp vb.)
+# GitHub'a göndermesini engeller.
+
+/[Ll]ibrary/
+/[Tt]emp/
+/Logs/
+/Temp/
+/Build/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio ve Rider dosyaları
+*.sln
+*.csproj"/[Ll]ibrary/" 

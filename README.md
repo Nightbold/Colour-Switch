@@ -38,4 +38,4 @@ Bu depoyu Unity'de açmak için:
 
 ## 👤 Geliştirici
 
-* **Mehmet [Soyadını buraya yaz]** - ([@Nightbold](https://github.com/Nightbold))
+* **Fatih Yavuz** - ([@Nightbold](https://github.com/Nightbold))
